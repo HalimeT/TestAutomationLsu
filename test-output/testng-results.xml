@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="4311" started-at="2019-06-20T06:57:01Z" finished-at="2019-06-20T06:57:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="4311" started-at="2019-06-20T06:57:01Z" finished-at="2019-06-20T06:57:05Z">
+      <class name="com.Lsu.testcases.LoginPageTestCases">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.Lsu.testcases.LoginPageTestCases@3532ec19]" name="setUp" is-config="true" duration-ms="3043" started-at="2019-06-20T06:57:01Z" finished-at="2019-06-20T06:57:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.Lsu.testcases.LoginPageTestCases@3532ec19]" name="login" duration-ms="1141" started-at="2019-06-20T06:57:04Z" finished-at="2019-06-20T06:57:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.Lsu.testcases.LoginPageTestCases@3532ec19]" name="tearDown" is-config="true" duration-ms="106" started-at="2019-06-20T06:57:05Z" finished-at="2019-06-20T06:57:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.Lsu.testcases.LoginPageTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
